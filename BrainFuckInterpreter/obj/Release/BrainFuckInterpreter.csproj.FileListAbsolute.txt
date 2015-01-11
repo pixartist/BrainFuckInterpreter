@@ -1,0 +1,9 @@
+D:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\bin\Release\BrainFuckInterpreter.dll
+D:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\bin\Release\BrainFuckInterpreter.pdb
+D:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\obj\Release\BrainFuckInterpreter.dll
+D:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\obj\Release\BrainFuckInterpreter.pdb
+E:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\bin\Release\BrainFuckInterpreter.dll
+E:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\bin\Release\BrainFuckInterpreter.pdb
+E:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\obj\Release\BrainFuckInterpreter.csprojResolveAssemblyReference.cache
+E:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\obj\Release\BrainFuckInterpreter.dll
+E:\Coding\WIP\BrainFuckInterpreter\BrainFuckInterpreter\obj\Release\BrainFuckInterpreter.pdb
